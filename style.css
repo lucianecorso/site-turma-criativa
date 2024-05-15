@@ -22,3 +22,32 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.Escola{
+    background-image: linear-gradient(#32C676, #186039);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 45%;
+}
+
+.escola-titulo{
+    padding: 24px o;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+}
